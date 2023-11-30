@@ -26,7 +26,11 @@ Excited by the endless challenges and solutions Data Science and Machine Learnin
 Inspired by the challenge and the vast number of Mandarin speakers, I've embarked on my own journey to learn Mandarin! I recently completed the HSK 1 (Mandarin Proficiency Exam) and am now working towards HSK 2. Duolingo is just one of the tools I use — here's a snapshot of my journey!
 <br clear="right"/>
 
-### Chess
+### The Royal Game
+
+I also really enjoy chess! Feel free to [challenge me](https://www.chess.com/member/somuchjelloo) to a game. Yes, my username is SoMuchJelloo _(it's the same as my PlayStation Username I made years ago)_, but hey, we've all done silly things before, right? 🤷‍♂️
+
+Check out my most recent games below.
 <!--START_SECTION:chessStats-->
 <!-- Automatically generated with https://github.com/Balastrong/chess-stats-action -->
 
