@@ -16,3 +16,4 @@ jobs:
       - uses: Balastrong/chess-stats-action@main
         with:
           CHESS_USERNAME: SoMuchJelloo
+          GAME_SIZE: 3
