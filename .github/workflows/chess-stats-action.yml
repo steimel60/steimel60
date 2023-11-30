@@ -1,9 +1,6 @@
-name: Chess Stats Action
+name: Chess Games & Stats Action
 
 on:
-  push:
-    branches:
-      - main
   schedule:
     - cron: '0 0 * * *' # Runs at 00:00 UTC every day
   workflow_dispatch:
@@ -12,9 +9,10 @@ jobs:
   update-readme:
     name: Update readme with your chess stats and games
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v3
-      - uses: ./
+      - uses: Balastrong/chess-stats-action@main
         with:
-          CHESS_USERNAME: 'SoMuchJelloo'
-          FILE_NAME: 'README-DEMO.md'
+          CHESS_USERNAME: SoMuchJelloo
