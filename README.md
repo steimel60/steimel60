@@ -40,13 +40,6 @@ Inspired by the challenge and the vast number of Mandarin speakers, I've embarke
 | rchilders1 | **SoMuchJelloo** | win 🥇 | 29/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/1p4pp/p3pn2/8/P4P2/3r2P1/1Pr3qP/2B1R1KR w - -">Link</a> | Rapid |
 | GmMC1234 | **SoMuchJelloo** | win 🥇 | 29/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1k1nr/pp3ppp/8/4P3/1b1q4/2P5/PP4PP/RNB1KB1R w KQkq -">Link</a> | Rapid |
 | **SoMuchJelloo** | Lucs516 | checkmated ❌ | 28/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1k1r3/pp4p1/3R3p/4B3/8/6Pb/PPP1QPqP/RN4K1 w - -">Link</a> | Rapid |
-| **SoMuchJelloo** | sactheruk | win 🥇 | 26/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4r2/pp1b1pQk/1q2pP1p/3p4/1b1N4/1N6/P4PPP/5RK1 b - -">Link</a> | Rapid |
-| RishabhB12790 | **SoMuchJelloo** | win 🥇 | 25/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r2k1/5ppp/8/8/2Q1P3/N1P2PP1/1P1r3q/4RRK1 w - -">Link</a> | Rapid |
-| AdrianoVn | **SoMuchJelloo** | checkmated ❌ | 24/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2Q5/8/5B2/k1Q5/2Pp4/pP1P4/P6K/8 b - -">Link</a> | Rapid |
-| **SoMuchJelloo** | mrtnmgs | resigned ❌ | 23/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/pppb1k1p/6p1/4b3/8/2N5/PP3PPP/3R2K1 b - -">Link</a> | Blitz |
-| **SoMuchJelloo** | MahmoudYakout | resigned ❌ | 23/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4bnr/p1k3pp/2p2p2/2p1p3/4P3/2N1BP2/PP1n1P1P/2KR4 w - -">Link</a> | Blitz |
-| **SoMuchJelloo** | yogeshp1988 | checkmated ❌ | 23/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn3rk1/8/2p3np/pp2Pb2/3P4/8/PPq2PPP/2KRR3 w - -">Link</a> | Blitz |
-| Crigo7 | **SoMuchJelloo** | win 🥇 | 22/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1n6/8/R4n2/5Pp1/3P4/1k1q1K1P/1P4P1/8 w - -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
