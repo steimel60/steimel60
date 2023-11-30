@@ -1,7 +1,25 @@
-<div style="background-color: #3498db; color: #ffffff; padding: 20px; border-radius: 5px;">
-  <h2>Hello, World!🌎👋</h2>
-  <p>I'm Dylan Steimel.</p>
-</div>
+# Hello, World!🌎👋
+
+<img align="right" alt="GIF" height="160px" src="base.gif" />
+
+## I'm Dylan Steimel. 
+
+Excited by the endless possibilities of solutions and challenges unlocked by Data Science and Machine Learning, I am eager to actively contribute and leave my mark on the field! 📊🤖
+
+## Education 🎓
+- M.S. Data Science and Analytics, University of Oklahoma
+- B.S. Mathematics, University of North Carolina at Charlotte
+
+### Skills
+
+- **Programming Languages:** Python, R
+- **Data Analysis:** Pandas, NumPy
+- **Machine Learning:** Scikit-Learn, TensorFlow, PyTorch
+- **Data Visualization:** Matplotlib, Seaborn
+- **Database Management:** SQL
+- **Tools:** Jupyter Notebooks, Git
+
+
 <!--
 **steimel60/steimel60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
