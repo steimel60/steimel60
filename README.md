@@ -1,6 +1,6 @@
 # Hello, World!🌎👋
 
-<img align="right" alt="GIF" height="160px" src="base.gif" />
+<img align="right" alt="GIF" height="160px" src="base3.gif" />
 
 ## I'm Dylan Steimel. 
 
