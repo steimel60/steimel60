@@ -4,7 +4,7 @@
 
 ## I'm Dylan Steimel. 
 
-Excited by the endless challenges and solutions Data Science and Machine Learning both provide, I am eager to actively contribute and leave my mark on the field! 📊🤖
+Excited by the endless challenges and solutions Data Science and Machine Learning provide, I am eager to actively contribute and leave my mark on the field! 📊🤖
 
 ## Programming Persona 🖥️
 
