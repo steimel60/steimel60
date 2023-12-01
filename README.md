@@ -83,7 +83,7 @@ Excited by the endless challenges and solutions Data Science and Machine Learnin
 - **Particle Swarm Optimization:** A heuristics visualization! This script allows you to play with the parameters and visualize what's happening. Try it out for yourself [here](https://github.com/steimel60/OU/blob/main/animate_PSO.py)!
 
 ### Current Projects
-- **ML Practice:** [Energy Consumption Prediction](https://www.kaggle.com/competitions/predict-energy-behavior-of-prosumers), the obligatory Kaggle competition!
+- **ML Practice:** [Energy Consumption Prediction](https://github.com/steimel60/Kaggle-Enefit/blob/main/enefit-energy-predictor.ipynb), the obligatory [Kaggle competition](https://www.kaggle.com/competitions/predict-energy-behavior-of-prosumers)!
 - **Just for Fun:** [Wandcrafter](https://github.com/steimel60/Wandcrafter), a cozy 2D RPG!
 - **Ideas on the Horizon:** Deep Learning Chess Engine, a fun Reinforcement Learning project!
 
