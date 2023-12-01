@@ -6,18 +6,87 @@
 
 Excited by the endless challenges and solutions Data Science and Machine Learning both provide, I am eager to actively contribute and leave my mark on the field! 📊🤖
 
-## Education 🎓
-- M.S. Data Science and Analytics, University of Oklahoma
-- B.S. Mathematics, University of North Carolina at Charlotte
+## Programming Persona 🖥️
+
+### Education
+🎓 M.S. Data Science and Analytics, University of Oklahoma<br>
+🎓 B.S. Mathematics, University of North Carolina at Charlotte
 
 ### Skills
 
-- **Programming Languages:** Python, R
-- **Data Analysis:** Pandas, NumPy
-- **Machine Learning:** Scikit-Learn, TensorFlow, PyTorch
-- **Data Visualization:** Matplotlib, Seaborn
-- **Database Management:** SQL
-- **Tools:** Jupyter Notebooks, Git
+<table>
+  <tr>
+    <td align="left">
+      <strong>Programming Languages</strong>
+    </td>
+    <td align="left">
+      <img style="vertical-align: middle;" alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+      <img style="vertical-align: middle;" alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+      <img style="vertical-align: middle;" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <strong>Data Analysis</strong>
+    </td>
+    <td align="left">
+      <img style="vertical-align: middle;" alt="Numpy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+      <img style="vertical-align: middle;" alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+      <img style="vertical-align: middle;" alt="Scipy" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <strong>Machine Learning</strong>
+    </td>
+    <td align="left">
+      <img style="vertical-align: middle;" alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+      <img style="vertical-align: middle;" alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+      <img style="vertical-align: middle;" alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" />
+      <img style="vertical-align: middle;" alt="SKLearn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <strong>Database Management</strong>
+    </td>
+    <td align="left">
+      <img style="vertical-align: middle;" alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+      <img style="vertical-align: middle;" alt="SQLite" src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+      <img style="vertical-align: middle;" alt="Azure" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <strong>Data Visualization</strong>
+    </td>
+    <td align="left">
+      <img style="vertical-align: middle;" alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
+      <img style="vertical-align: middle;" alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <strong>Tools</strong>
+    </td>
+    <td align="left">
+      <img style="vertical-align: middle;" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+      <img style="vertical-align: middle;" alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+      <img style="vertical-align: middle;" alt="Jupyter" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+### Current Projects
+- **ML Practice:** [Energy Consumption Prediction](https://www.kaggle.com/competitions/predict-energy-behavior-of-prosumers), the obligatory Kaggle competition!
+- **Just for Fun:** [Wandcrafter](https://github.com/steimel60/Wandcrafter), a cozy 2D RPG!
+- **Ideas on the Horizon:** Deep Learning Chess Engine, a fun Reinforcement Learning project!
+
+### My Favorite Projects 🌟
+- **Adversarial Debiasing with Imbalanced Data:** This project studies the effects of Adversarial Debiasing _(a method similar to GANs used to mitigate bias)_ on a heavily imbalanced dataset.  Read my report [here](https://github.com/steimel60/Steimel_OUDSA5900/blob/main/5900_Report_dsteimel.pdf)!
+- **Run or Pass?, an NFL play predictor:** A Light GBM written in R that, given the current state of an NFL game, predicts whether the next play is a run or pass. Check out the R markdown [here](https://github.com/steimel60/5103_Project_NFL/blob/main/dsteimel_ckutson_project.rmd)!
+- **Particle Swarm Optimization:** A heuristics visualization! This script allows you to play with the parameters and visualize what's happening. Try it out for yourself [here](https://github.com/steimel60/OU/blob/main/animate_PSO.py)!
+
 
 <!-- Maybe use if more active
 <img src = "https://github-readme-activity-graph.vercel.app/graph?username=steimel60&theme=dark" />
@@ -61,7 +130,7 @@ Check out my most recent games below.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steimel60/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/dylansteimel)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](discordapp.com/users/steimel60)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://www.discordapp.com/users/steimel60)
 
 
 <!--
