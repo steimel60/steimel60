@@ -77,16 +77,15 @@ Excited by the endless challenges and solutions Data Science and Machine Learnin
   </tr>
 </table>
 
-### Current Projects
-- **ML Practice:** [Energy Consumption Prediction](https://www.kaggle.com/competitions/predict-energy-behavior-of-prosumers), the obligatory Kaggle competition!
-- **Just for Fun:** [Wandcrafter](https://github.com/steimel60/Wandcrafter), a cozy 2D RPG!
-- **Ideas on the Horizon:** Deep Learning Chess Engine, a fun Reinforcement Learning project!
-
 ### My Favorite Projects 🌟
 - **Adversarial Debiasing with Imbalanced Data:** This project studies the effects of Adversarial Debiasing _(a method similar to GANs used to mitigate bias)_ on a heavily imbalanced dataset.  Read my report [here](https://github.com/steimel60/Steimel_OUDSA5900/blob/main/5900_Report_dsteimel.pdf)!
 - **Run or Pass?, an NFL play predictor:** A Light GBM written in R that, given the current state of an NFL game, predicts whether the next play is a run or pass. Check out the R markdown [here](https://github.com/steimel60/5103_Project_NFL/blob/main/dsteimel_ckutson_project.rmd)!
 - **Particle Swarm Optimization:** A heuristics visualization! This script allows you to play with the parameters and visualize what's happening. Try it out for yourself [here](https://github.com/steimel60/OU/blob/main/animate_PSO.py)!
 
+### Current Projects
+- **ML Practice:** [Energy Consumption Prediction](https://www.kaggle.com/competitions/predict-energy-behavior-of-prosumers), the obligatory Kaggle competition!
+- **Just for Fun:** [Wandcrafter](https://github.com/steimel60/Wandcrafter), a cozy 2D RPG!
+- **Ideas on the Horizon:** Deep Learning Chess Engine, a fun Reinforcement Learning project!
 
 <!-- Maybe use if more active
 <img src = "https://github-readme-activity-graph.vercel.app/graph?username=steimel60&theme=dark" />
