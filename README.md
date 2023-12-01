@@ -19,6 +19,16 @@ Excited by the endless challenges and solutions Data Science and Machine Learnin
 - **Database Management:** SQL
 - **Tools:** Jupyter Notebooks, Git
 
+<!-- Maybe use if more active
+<img src = "https://github-readme-activity-graph.vercel.app/graph?username=steimel60&theme=dark" />
+<img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=steimel60&theme=dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=steimel60&theme=dark" />
+to place next to each other place in container
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=steimel60&theme=dark" />
+</div>
+-->
+
 ## Beyond the Code 🚀
 
 ### Mandarin Adventures
@@ -46,6 +56,13 @@ Check out my most recent games below.
 | **SoMuchJelloo** | ORESTES56 | checkmated ❌ | 1/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6q1/7r/8/8/8/7K/3k4/8 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
+
+### Let's Connect! 🤝
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steimel60/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/dylansteimel)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](discordapp.com/users/steimel60)
+
 
 <!--
 **steimel60/steimel60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
