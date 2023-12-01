@@ -36,14 +36,14 @@ Check out my most recent games below.
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1231 | 784 | 741 |
+| Current | 1240 | 784 | 741 |
 | Best | 1336 | 1200 | 1032 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| rchilders1 | **SoMuchJelloo** | win 🥇 | 29/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/1p4pp/p3pn2/8/P4P2/3r2P1/1Pr3qP/2B1R1KR w - -">Link</a> | Rapid |
-| GmMC1234 | **SoMuchJelloo** | win 🥇 | 29/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1k1nr/pp3ppp/8/4P3/1b1q4/2P5/PP4PP/RNB1KB1R w KQkq -">Link</a> | Rapid |
-| **SoMuchJelloo** | Lucs516 | checkmated ❌ | 28/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1k1r3/pp4p1/3R3p/4B3/8/6Pb/PPP1QPqP/RN4K1 w - -">Link</a> | Rapid |
+| zlahat | **SoMuchJelloo** | win 🥇 | 1/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/1p3p1p/5n2/6p1/6P1/PN1q1P1P/1P1p4/1KR5 w - -">Link</a> | Rapid |
+| **SoMuchJelloo** | Alfman2021 | win 🥇 | 1/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqkb1r/pppn1Qp1/5n1p/4p3/2B1P3/5N2/PPP2PPP/RNB1K2R b KQkq -">Link</a> | Rapid |
+| **SoMuchJelloo** | ORESTES56 | checkmated ❌ | 1/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6q1/7r/8/8/8/7K/3k4/8 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
