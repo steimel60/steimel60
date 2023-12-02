@@ -114,14 +114,14 @@ Check out my most recent games below.
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1240 | 784 | 741 |
+| Current | 1248 | 784 | 741 |
 | Best | 1336 | 1200 | 1032 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| alikhdam | **SoMuchJelloo** | win 🥇 | 1/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r4k1/p1p3p1/2p5/q6p/3P2b1/K1P3N1/PP3r2/R3R3 w - -">Link</a> | Rapid |
 | zlahat | **SoMuchJelloo** | win 🥇 | 1/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/1p3p1p/5n2/6p1/6P1/PN1q1P1P/1P1p4/1KR5 w - -">Link</a> | Rapid |
 | **SoMuchJelloo** | Alfman2021 | win 🥇 | 1/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqkb1r/pppn1Qp1/5n1p/4p3/2B1P3/5N2/PPP2PPP/RNB1K2R b KQkq -">Link</a> | Rapid |
-| **SoMuchJelloo** | ORESTES56 | checkmated ❌ | 1/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6q1/7r/8/8/8/7K/3k4/8 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
