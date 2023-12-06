@@ -114,14 +114,14 @@ Check out my most recent games below.
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1267 | 757 | 741 |
+| Current | 1286 | 757 | 741 |
 | Best | 1336 | 1200 | 1032 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| luclejeune | **SoMuchJelloo** | resigned ❌ | 4/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/6k1/R4p1p/5K2/P5P1/1P6/8 b - -">Link</a> | Rapid |
-| MrOlympia00 | **SoMuchJelloo** | win 🥇 | 2/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k5/ppp2ppp/8/8/2q5/P7/6PP/4R1K1 b - -">Link</a> | Rapid |
-| **SoMuchJelloo** | flyagain | win 🥇 | 2/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3kr3/Q4R1p/1pp5/8/3Pb3/2P3r1/P1P4K/R7 b - -">Link</a> | Rapid |
+| Xinguson | **SoMuchJelloo** | win 🥇 | 5/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/p4pk1/7r/2p3p1/2P3K1/P5P1/4Q2P/1q2nB2 b - -">Link</a> | Rapid |
+| Kuleli1987 | **SoMuchJelloo** | win 🥇 | 5/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/8/4PK2/8/8/8/8/3q3q w - -">Link</a> | Rapid |
+| Omar199994 | **SoMuchJelloo** | stalemate ⏸️ | 5/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/5K1k/5Q2/8/8/8 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
