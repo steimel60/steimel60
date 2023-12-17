@@ -119,9 +119,9 @@ Check out my most recent games below.
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| sergeyenerget | **SoMuchJelloo** | win 🥇 | 16/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=b4rk1/2pN2pp/p1P5/2QP1p2/P3p3/2N1P1P1/1r5q/R4RK1 w - -">Link</a> | Rapid |
+| **SoMuchJelloo** | lupo_rosso | checkmated ❌ | 16/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/p1R2p1p/b1p3p1/3p4/8/5Q2/P1P2PPP/5qK1 w - -">Link</a> | Rapid |
 | **SoMuchJelloo** | Bert_Delfin | resigned ❌ | 16/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r3r/kp5p/p1n3p1/2pN4/8/2P3n1/PP3PPP/4NK2 w - -">Link</a> | Rapid |
-| leandroalonzopozo | **SoMuchJelloo** | resigned ❌ | 15/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2b2k1/pp1Q2pp/5r2/4pp2/4P3/8/PPP3PP/2KR3R b - -">Link</a> | Rapid |
-| **SoMuchJelloo** | Chesslover1977 | win 🥇 | 15/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/5p2/7B/6Q1/6bp/2P3P1/P3RP2/3R2K1 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
