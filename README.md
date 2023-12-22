@@ -114,14 +114,14 @@ Check out my most recent games below.
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1283 | 757 | 741 |
+| Current | 1270 | 757 | 741 |
 | Best | 1336 | 1200 | 1032 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| brigzclomz | **SoMuchJelloo** | win 🥇 | 20/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k3/3p1pp1/4p1p1/pP1q4/6n1/N1P1BP2/1P2Q2r/R6K w q -">Link</a> | Rapid |
-| Dr_Wish | **SoMuchJelloo** | win 🥇 | 20/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q1rk1/p3bppp/5n2/1p3n2/2p5/8/PPBP1PPP/RNB2RK1 w - -">Link</a> | Rapid |
-| **SoMuchJelloo** | nayre1985 | win 🥇 | 20/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/5K2/2R5/1P2p1r1/R1Pkr3/8/3Q4 b - -">Link</a> | Rapid |
+| i_play_2_win | **SoMuchJelloo** | win 🥇 | 21/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=K7/q7/7p/8/3q4/8/8/6k1 w - -">Link</a> | Rapid |
+| **SoMuchJelloo** | Moses3x | resigned ❌ | 21/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/1R4pk/2p4p/3bPp2/8/7P/5PP1/q1K5 w - -">Link</a> | Rapid |
+| ValentinDemb | **SoMuchJelloo** | resigned ❌ | 21/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1k1/1pN2ppp/p3r3/2p1n3/8/3P4/PPP2PPP/R4RK1 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
