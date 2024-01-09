@@ -114,14 +114,14 @@ Check out my most recent games below.
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1272 | 757 | 741 |
+| Current | 1263 | 757 | 741 |
 | Best | 1336 | 1200 | 1032 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| samalsareti | **SoMuchJelloo** | resigned ❌ | 8/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b2k2/ppq3pp/1n1B4/8/2pP2n1/2P2QP1/PP3P1P/RN4K1 b - -">Link</a> | Rapid |
 | MaDa2702 | **SoMuchJelloo** | resigned ❌ | 5/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qkbnr/1Q3ppp/p2p4/3Bp3/4P3/8/PPP2PPP/RNB2RK1 b kq -">Link</a> | Rapid |
 | **SoMuchJelloo** | jmhz | win 🥇 | 5/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/pb1p1kbp/1p3p2/7p/3Q4/2N2P2/PPP3PP/4B1K1 b - -">Link</a> | Rapid |
-| **SoMuchJelloo** | jonnic | repetition ⏸️ | 4/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/4k3/5p2/8/5K2 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
