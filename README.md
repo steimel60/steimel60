@@ -114,14 +114,14 @@ Check out my most recent games below.
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1276 | 757 | 741 |
+| Current | 1262 | 757 | 741 |
 | Best | 1336 | 1200 | 1032 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **SoMuchJelloo** | allanmatere | win 🥇 | 14/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5b2/3k4/p1qp1B1p/P5p1/4p3/8/2P1QPPP/3R2K1 b - -">Link</a> | Rapid |
-| **SoMuchJelloo** | SRS7 | resigned ❌ | 13/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b3k1/pppp2p1/1b2p2p/3Pn3/5q1N/2N5/PPP1B1PP/1K1R1R2 b - -">Link</a> | Rapid |
-| **SoMuchJelloo** | 69Aussie | win 🥇 | 12/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k6/1Q6/P6p/2q1b3/2P5/1P4PP/6K1/8 b - -">Link</a> | Rapid |
+| vadim555555 | **SoMuchJelloo** | resigned ❌ | 15/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/5pp1/p7/8/2P5/1QP1b1P1/PP2qP1P/5RK1 w - -">Link</a> | Rapid |
+| GabrielMuscalu | **SoMuchJelloo** | resigned ❌ | 15/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1k1/p4ppp/2p5/3p4/3P4/7P/PPPB1PP1/R4K2 b - -">Link</a> | Rapid |
+| **SoMuchJelloo** | wmmacadams | checkmated ❌ | 15/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/3n1p1p/8/6k1/7q/7K w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
