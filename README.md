@@ -114,14 +114,14 @@ Check out my most recent games below.
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1249 | 757 | 741 |
+| Current | 1266 | 757 | 741 |
 | Best | 1336 | 1200 | 1032 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **SoMuchJelloo** | tegwyn | win 🥇 | 29/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4P3/5Kp1/8/7p/7P/2P1kp2/7R b - -">Link</a> | Rapid |
+| **SoMuchJelloo** | ivankozyarsky | win 🥇 | 29/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bBr1kb/1pp2p1p/p1n1p1p1/8/8/2NB3P/PPPQ1PP1/R3R1K1 b - -">Link</a> | Rapid |
 | **SoMuchJelloo** | franta_uzivatel | checkmated ❌ | 28/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p4pkp/2b3p1/8/7P/4N1P1/5P1K/7r w - -">Link</a> | Rapid |
-| emilyis14 | **SoMuchJelloo** | resigned ❌ | 24/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbq1rk1/p7/1pp4p/4Np2/1P6/PN1B4/5PPP/R2Q1RK1 b - -">Link</a> | Rapid |
-| **SoMuchJelloo** | bhakthamurali | win 🥇 | 24/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/pp2Np2/3p3Q/1P4p1/P7/7P/1q3rP1/6K1 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
