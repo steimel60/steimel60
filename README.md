@@ -114,14 +114,14 @@ Check out my most recent games below.
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1266 | 757 | 741 |
+| Current | 1289 | 757 | 741 |
 | Best | 1336 | 1200 | 1032 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **SoMuchJelloo** | tegwyn | win 🥇 | 29/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4P3/5Kp1/8/7p/7P/2P1kp2/7R b - -">Link</a> | Rapid |
-| **SoMuchJelloo** | ivankozyarsky | win 🥇 | 29/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bBr1kb/1pp2p1p/p1n1p1p1/8/8/2NB3P/PPPQ1PP1/R3R1K1 b - -">Link</a> | Rapid |
-| **SoMuchJelloo** | franta_uzivatel | checkmated ❌ | 28/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p4pkp/2b3p1/8/7P/4N1P1/5P1K/7r w - -">Link</a> | Rapid |
+| alligator1965 | **SoMuchJelloo** | win 🥇 | 2/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1k3/ppp2p1p/5p1r/4P1bK/2P5/P2R1PP1/7P/5BNR w - -">Link</a> | Rapid |
+| Namipet | **SoMuchJelloo** | win 🥇 | 2/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3r1k1/p1p2ppp/8/1b1p4/3P1bnq/N1P5/4NPP1/R2Q1R1K w - -">Link</a> | Rapid |
+| baqytturimov | **SoMuchJelloo** | win 🥇 | 2/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/pp3ppp/5n2/2bp1q2/2p5/3P3P/PPP3P1/R1B2K1R w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
