@@ -114,14 +114,14 @@ Check out my most recent games below.
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1292 | 757 | 741 |
+| Current | 1317 | 757 | 741 |
 | Best | 1336 | 1200 | 1032 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| xavi_fire | **SoMuchJelloo** | checkmated ❌ | 5/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqkb1r/1p3Qpp/p2p1n2/4p3/2B1P3/8/PPP2PPP/RNB2RK1 b kq -">Link</a> | Rapid |
-| **SoMuchJelloo** | 8teen18 | resigned ❌ | 4/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r3rk1/p4pp1/2pp3p/1N6/3b4/1P6/P1P2PPP/R4RK1 b - -">Link</a> | Rapid |
-| **SoMuchJelloo** | Mekurukito-Rinkatodokuta | win 🥇 | 4/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1qrk1/pppp1p1p/2n1pPpQ/8/7N/2PB4/P4PPP/bN3RK1 b - -">Link</a> | Rapid |
+| **SoMuchJelloo** | daguemar12 | win 🥇 | 6/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqkb1r/pp2pppp/2np1P2/2p5/8/2N2N2/PPPP1PPP/R1BQKB1R b KQkq -">Link</a> | Rapid |
+| kopapooo | **SoMuchJelloo** | win 🥇 | 6/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1b6/1P1k4/1K5r/8/8/8/8 w - -">Link</a> | Rapid |
+| DmitriyCDS | **SoMuchJelloo** | win 🥇 | 6/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k4/3P1p2/6p1/1K6/8/8/2q5/qr6 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
