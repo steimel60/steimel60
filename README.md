@@ -119,9 +119,9 @@ Check out my most recent games below.
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **SoMuchJelloo** | NickyNinja | checkmated ❌ | 9/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4rk2/8/1P1p4/8/2Q5/1P2r1qP/3R3K w - -">Link</a> | Rapid |
 | **SoMuchJelloo** | daguemar12 | win 🥇 | 6/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqkb1r/pp2pppp/2np1P2/2p5/8/2N2N2/PPPP1PPP/R1BQKB1R b KQkq -">Link</a> | Rapid |
 | kopapooo | **SoMuchJelloo** | win 🥇 | 6/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1b6/1P1k4/1K5r/8/8/8/8 w - -">Link</a> | Rapid |
-| DmitriyCDS | **SoMuchJelloo** | win 🥇 | 6/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k4/3P1p2/6p1/1K6/8/8/2q5/qr6 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
