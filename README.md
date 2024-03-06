@@ -114,14 +114,14 @@ Check out my most recent games below.
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1318 | 757 | 741 |
-| Best | 1336 | 1200 | 1032 |
+| Current | 1343 | 757 | 741 |
+| Best | 1343 | 1200 | 1032 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **SoMuchJelloo** | Vx07 | resigned ❌ | 3/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r3r/ppp1kppp/4bn2/8/8/1PpB4/P1N2PPP/3R2K1 w - -">Link</a> | Rapid |
-| sly1979203 | **SoMuchJelloo** | resigned ❌ | 22/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k1nr/1b2b1pp/p1n1p3/2p1P3/2Ppq3/3B1N1P/PP4P1/RNBQ1RK1 b kq -">Link</a> | Rapid |
-| Camarillo009 | **SoMuchJelloo** | win 🥇 | 20/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1rb5/4k2q/p3pp2/2p5/8/1P6/P2B1PPP/bN2K2R w - -">Link</a> | Rapid |
+| **SoMuchJelloo** | Tegi007 | win 🥇 | 5/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qRk1r/pb3pp1/5b1p/1B1p4/8/8/PPP2PPP/RN1Q2K1 b - -">Link</a> | Rapid |
+| **SoMuchJelloo** | mushrambo666 | win 🥇 | 5/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqkb1Q/ppp1np2/3p2pB/7p/2nNP3/8/PPP2PPP/RN3RK1 b q -">Link</a> | Rapid |
+| BobDusk | **SoMuchJelloo** | win 🥇 | 5/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/4b3/4kp2/8/5K2/8 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
