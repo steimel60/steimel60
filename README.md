@@ -114,14 +114,14 @@ Check out my most recent games below.
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1319 | 757 | 741 |
+| Current | 1311 | 757 | 741 |
 | Best | 1343 | 1200 | 1032 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Aryoshayegan | **SoMuchJelloo** | resigned ❌ | 2/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p2Q1p1p/8/2k5/8/4B3/PP3PPP/3R2K1 b - -">Link</a> | Rapid |
 | Ugon_Buldozerov | **SoMuchJelloo** | resigned ❌ | 18/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k3n1/7Q/p3pp2/4q3/2p5/P1P5/1PBNNPbP/R3K1R1 b Q -">Link</a> | Rapid |
 | **SoMuchJelloo** | Namiq12 | resigned ❌ | 8/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b2rk1/pp3p1p/2p2pp1/8/2N5/8/P1P1BPPP/4R1K1 w - -">Link</a> | Rapid |
-| VirtualWilli | **SoMuchJelloo** | timeout ❌ | 6/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/P5R1/4k3/1n6/4N3/8/6K1 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
