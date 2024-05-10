@@ -83,8 +83,8 @@ Excited by the endless challenges and solutions Data Science and Machine Learnin
 - **Particle Swarm Optimization:** A heuristics visualization! This script allows you to play with the parameters and visualize what's happening. Try it out for yourself [here](https://github.com/steimel60/OU/blob/main/animate_PSO.py)!
 
 ### Current Projects
-- **ML Practice:** [Classifying Harmful Brain Activity](https://github.com/steimel60/Kaggle/blob/main/classifier-brain-activity.ipynb), the obligatory [Kaggle competition](https://www.kaggle.com/competitions/hms-harmful-brain-activity-classification)!
-- **Just for Fun:** [Wandcrafter](https://github.com/steimel60/Wandcrafter), a cozy 2D RPG!
+- **BrewBoard:** An affordable inventory management system for breweries. Sorry, this one is private!
+- **[Wandcrafter](https://github.com/steimel60/Wandcrafter):** A cozy 2D RPG where you explore and collect materials in order to run your own Wand Crafting Shop!
 - **Ideas on the Horizon:** Deep Learning Chess Engine, a fun Reinforcement Learning project!
 
 <!-- Maybe use if more active
