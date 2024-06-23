@@ -114,14 +114,14 @@ Check out my most recent games below.
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1192 | 757 | 741 |
+| Current | 1216 | 757 | 741 |
 | Best | 1343 | 1200 | 1032 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| Al_101 | **SoMuchJelloo** | repetition ⏸️ | 19/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/3q2K1/6P1/Q7/6k1/8/8 w - -">Link</a> | Rapid |
-| maximejac88 | **SoMuchJelloo** | win 🥇 | 19/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r4k/1p6/2n1Nrpp/p1p5/8/P1Pn3P/1P3PP1/1R3RK1 w - -">Link</a> | Rapid |
-| **SoMuchJelloo** | polser1979 | resigned ❌ | 19/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/1p6/pPk5/K7/8/8 w - -">Link</a> | Rapid |
+| **SoMuchJelloo** | HeyokaMorgan | win 🥇 | 22/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6P1/3k1K1B/r7/8/8/8/6R1 b - -">Link</a> | Rapid |
+| FairPlay3158 | **SoMuchJelloo** | win 🥇 | 22/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/3B4/8/8/5k1K/8/8/8 w - -">Link</a> | Rapid |
+| **SoMuchJelloo** | 0117-MJH | win 🥇 | 22/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1Q3k1r/5pp1/p2p2p1/r2P1n2/2p2P2/2P5/P5PP/5RK1 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
